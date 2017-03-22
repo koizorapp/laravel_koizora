@@ -181,6 +181,7 @@ return [
         Naux\Mail\SendCloudServiceProvider::class, //SendCloud
         Laracasts\Flash\FlashServiceProvider::class,
         Overtrue\LaravelLang\TranslationServiceProvider::class,
+        Overtrue\LaravelUEditor\UEditorServiceProvider::class,
 
 
     ],
